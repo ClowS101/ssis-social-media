@@ -1,5 +1,5 @@
 {
-  "note": "Carlos approved the branded PHOTO posts on Oct 3, 2026 4:28pm PT. Videos (#8, #9) await his preview approval. #5 and #7 are on HOLD (consent). Times are PT. Rebuilt/verified Oct 5, 2026 ~9:05pm PT after box restore: statuses and Buffer ids reconciled against Buffer (org 6a86118f22cf1144ad6051af). Buffer cap = 10 scheduled posts.",
+  "note": "Carlos approved the branded PHOTO posts on Oct 3, 2026 4:28pm PT. Videos (#8, #9) await his preview approval. #5 and #7 are on HOLD (consent). Times are PT. Rebuilt/verified Oct 5, 2026 ~9:05pm PT after box restore: statuses and Buffer ids reconciled against Buffer (org 6a86118f22cf1144ad6051af). Buffer upgraded Oct 6, 2026 to paid Essentials plan: first comments supported, no 10-post cap (org limit 5000 scheduled posts). Redo #14-#18 scheduled Oct 6, 2026 ~9:12am PT with first comments (IG + FB).",
   "posts": [
     {
       "num": 13,
@@ -264,7 +264,7 @@
       "file_path": "/workspace/ig-audit/redo/37-dmv-registration",
       "when_pt": "2026-10-09 12:04",
       "dueAt": "2026-10-09T19:04:00Z",
-      "status": "approved",
+      "status": "scheduled",
       "type": "image",
       "caption": "Registering a car in California? The DMV will want proof of insurance first. 🚗 Here's what to have ready so we can get you insured:\n\n1️⃣ Driver's license for each driver\n2️⃣ VIN and vehicle info\n3️⃣ Your California address\n4️⃣ Lender info, if the car is financed\n\nIf the car is financed or leased, the lender will usually ask for more than the state minimum liability. Swipe for the checklist, and send us your questions in English or Spanish.\n\n—\n\n¿Vas a registrar tu carro en California? El DMV te va a pedir comprobante de seguro. 🚗 Esto es lo que necesitas tener listo:\n\n1️⃣ Licencia de manejo de cada conductor\n2️⃣ VIN e información del carro\n3️⃣ Tu dirección en California\n4️⃣ Datos del banco, si el carro es financiado\n\nSi tu carro es financiado o de leasing, normalmente el banco te va a pedir más que la responsabilidad civil mínima del estado. Desliza para ver la lista y mándanos tus dudas en español o inglés.\n\n#CaliforniaDMV #AutoInsurance #SeguroDeAuto #BuenaPark #StreetSmartInsurance\n\nEducational only, California. DMV requirements vary by vehicle; check dmv.ca.gov. Solo informativo. CA Lic. 0M47744",
       "caption_bytes": 1163,
@@ -308,8 +308,12 @@
         "ig",
         "fb"
       ],
-      "blocked_reason": "Buffer rejects firstComment on this plan: 'Invalid post: First comment requires a paid plan.' (create_post attempt Oct 5 2026 ~9:02pm PT for #14 IG). Not scheduled without the approved first comment; needs Carlos's decision (upgrade Buffer, post first comment manually, or approve posting without it).",
-      "channels_note": "Channels = IG + FB per the approved metadata (tiktok: null). Confirm with Carlos whether TikTok was intended."
+      "channels_note": "Channels = IG + FB per the approved metadata (tiktok: null). Confirm with Carlos whether TikTok was intended.",
+      "buffer_ids": {
+        "ig": "6ac51d6aec5da1bfe835c9db",
+        "fb": "6ac51d7a69aec55670a94d56"
+      },
+      "scheduled_on": "2026-10-06 ~09:12 PT (Buffer Essentials; firstComment saved on IG and FB)"
     },
     {
       "num": 15,
@@ -317,7 +321,7 @@
       "file_path": "/workspace/ig-audit/redo/29-car-stolen",
       "when_pt": "2026-10-10 12:04",
       "dueAt": "2026-10-10T19:04:00Z",
-      "status": "approved",
+      "status": "scheduled",
       "type": "image",
       "caption": "Car stolen? Take a breath. Do these 3 things first: 🚨\n\n1️⃣ Call the police and get a report number. Your insurance company will usually ask for it.\n2️⃣ Call your insurance company to open a claim as soon as you can.\n3️⃣ Gather your vehicle and policy info: VIN, plate number, year/make/model and your policy number.\n\nGood to know: theft is usually covered only if you have comprehensive coverage, and a rental car while you wait depends on whether your policy includes rental reimbursement. The best time to check is before you need it. Swipe for the 3 steps.\n\n—\n\n¿Te robaron el carro? Respira. Haz esto primero: 🚨\n\n1️⃣ Llama a la policía y pide el número de reporte. Normalmente tu aseguradora te lo va a pedir.\n2️⃣ Llama a tu aseguradora para abrir un reclamo lo antes posible.\n3️⃣ Junta la información de tu carro y póliza: VIN, número de placa, año/marca/modelo y tu número de póliza.\n\nDato importante: el robo normalmente se cubre solo si tienes cobertura comprensiva, y un carro de renta mientras esperas depende de si tu póliza incluye reembolso de renta. El mejor momento para revisarlo es antes de necesitarlo. Desliza para ver los 3 pasos.\n\n#CarTheft #AutoInsurance #SeguroDeAuto #BuenaPark #StreetSmartInsurance\n\nEducational only, California. Coverage depends on your policy. Solo informativo. CA Lic. 0M47744",
       "caption_bytes": 1362,
@@ -361,8 +365,12 @@
         "ig",
         "fb"
       ],
-      "blocked_reason": "Buffer rejects firstComment on this plan: 'Invalid post: First comment requires a paid plan.' (create_post attempt Oct 5 2026 ~9:02pm PT for #14 IG). Not scheduled without the approved first comment; needs Carlos's decision (upgrade Buffer, post first comment manually, or approve posting without it).",
-      "channels_note": "Channels = IG + FB per the approved metadata (tiktok: null). Confirm with Carlos whether TikTok was intended."
+      "channels_note": "Channels = IG + FB per the approved metadata (tiktok: null). Confirm with Carlos whether TikTok was intended.",
+      "buffer_ids": {
+        "ig": "6ac51d8b6eeea25ca07c1517",
+        "fb": "6ac51d9340a4f8c7177e724e"
+      },
+      "scheduled_on": "2026-10-06 ~09:12 PT (Buffer Essentials; firstComment saved on IG and FB)"
     },
     {
       "num": 16,
@@ -370,7 +378,7 @@
       "file_path": "/workspace/ig-audit/redo/30-dealership",
       "when_pt": "2026-10-11 12:04",
       "dueAt": "2026-10-11T19:04:00Z",
-      "status": "approved",
+      "status": "scheduled",
       "type": "image",
       "caption": "Before you sign at the dealership, check what the insurance on that exact car will cost. Two similar cars can have very different rates. 🚗\n\nThe car payment is only part of the real monthly cost. The price of insurance depends on the car (model, trim, repair costs) and on you (driving record, yearly miles, years of experience).\n\nBefore you sign:\n✅ Get the VIN of the car you like\n✅ Ask us for a quote on that exact car\n✅ Add payment + insurance to see the real monthly cost\n✅ If it's financed or leased, ask what coverage the lender requires\n\n—\n\nAntes de firmar en la agencia, revisa cuánto costaría el seguro de ese carro. Dos carros parecidos pueden tener precios de seguro muy distintos. 🚗\n\nEl pago del carro es solo una parte del costo real al mes. El precio del seguro depende del carro (modelo, versión, costo de reparación) y de ti (historial de manejo, millas al año, años de experiencia).\n\nAntes de firmar:\n✅ Pide el VIN del carro que te gusta\n✅ Pídenos una cotización de ese carro\n✅ Suma pago + seguro para ver el costo real al mes\n✅ Si es financiado o de leasing, pregunta qué cobertura pide el banco\n\n#CarBuying #AutoInsurance #SeguroDeAuto #BuenaPark #StreetSmartInsurance\n\nEducational only, California. Rates vary by driver and carrier. Solo informativo. CA Lic. 0M47744",
       "caption_bytes": 1318,
@@ -406,8 +414,12 @@
         "ig",
         "fb"
       ],
-      "blocked_reason": "Buffer rejects firstComment on this plan: 'Invalid post: First comment requires a paid plan.' (create_post attempt Oct 5 2026 ~9:02pm PT for #14 IG). Not scheduled without the approved first comment; needs Carlos's decision (upgrade Buffer, post first comment manually, or approve posting without it).",
-      "channels_note": "Channels = IG + FB per the approved metadata (tiktok: null). Confirm with Carlos whether TikTok was intended."
+      "channels_note": "Channels = IG + FB per the approved metadata (tiktok: null). Confirm with Carlos whether TikTok was intended.",
+      "buffer_ids": {
+        "ig": "6ac51da3d2669b6154b9b56a",
+        "fb": "6ac51daa6eeea25ca07c1b82"
+      },
+      "scheduled_on": "2026-10-06 ~09:12 PT (Buffer Essentials; firstComment saved on IG and FB)"
     },
     {
       "num": 17,
@@ -415,7 +427,7 @@
       "file_path": "/workspace/ig-audit/redo/28-payday",
       "when_pt": "2026-10-12 12:04",
       "dueAt": "2026-10-12T19:04:00Z",
-      "status": "approved",
+      "status": "scheduled",
       "type": "image",
       "caption": "Payday after your insurance due date? Don't wait for the cancellation notice. Call your agent early, because there may be options. 💬\n\nDepending on your carrier, options may include:\n• Moving your due date closer to payday\n• Changing your payment plan\n• Setting up automatic payments\n\nNot every carrier offers every option, and grace periods vary, so don't count on one. If your policy cancels, you'd be driving uninsured, which is against the law in California. Reach out before the due date, not after. Full guide on our blog: streetsmart-insurance.com/blog\n\n—\n\n¿Cobras después de la fecha de pago de tu seguro? No esperes a que te cancelen. Habla con tu agente antes, porque puede haber opciones. 💬\n\nSegún tu aseguradora, las opciones pueden incluir:\n• Mover tu fecha de pago más cerca de tu día de cobro\n• Cambiar tu plan de pagos\n• Poner pagos automáticos\n\nNo todas las aseguradoras ofrecen todas las opciones y los periodos de gracia varían, así que no cuentes con uno. Si se cancela tu póliza, estarías manejando sin seguro, y eso va contra la ley en California. Contáctanos antes de la fecha de pago, no después. Guía completa en nuestro blog: streetsmart-insurance.com/blog\n\n#AutoInsurance #SeguroDeAuto #BuenaPark #StreetSmartInsurance\n\nEducational only, California. Options vary by carrier. Solo informativo. CA Lic. 0M47744",
       "caption_bytes": 1367,
@@ -451,8 +463,12 @@
         "ig",
         "fb"
       ],
-      "blocked_reason": "Buffer rejects firstComment on this plan: 'Invalid post: First comment requires a paid plan.' (create_post attempt Oct 5 2026 ~9:02pm PT for #14 IG). Not scheduled without the approved first comment; needs Carlos's decision (upgrade Buffer, post first comment manually, or approve posting without it).",
-      "channels_note": "Channels = IG + FB per the approved metadata (tiktok: null). Confirm with Carlos whether TikTok was intended."
+      "channels_note": "Channels = IG + FB per the approved metadata (tiktok: null). Confirm with Carlos whether TikTok was intended.",
+      "buffer_ids": {
+        "ig": "6ac51db26eeea25ca07c1d3e",
+        "fb": "6ac51db93292783db5cd9db9"
+      },
+      "scheduled_on": "2026-10-06 ~09:12 PT (Buffer Essentials; firstComment saved on IG and FB)"
     },
     {
       "num": 18,
@@ -460,7 +476,7 @@
       "file_path": "/workspace/ig-audit/redo/25-same-coverage",
       "when_pt": "2026-10-13 12:04",
       "dueAt": "2026-10-13T19:04:00Z",
-      "status": "approved",
+      "status": "scheduled",
       "type": "image",
       "caption": "Same coverage, different price. Why? Your driving record, yearly miles and years of driving experience all play a part in California. 🚗\n\nUnder California's Prop 103, these three factors carry the most weight in auto rates:\n1️⃣ Your driving safety record\n2️⃣ How many miles you drive per year\n3️⃣ How many years you've been driving\n\nOther approved factors, like the car you drive and where you live, can also play a part, and every carrier weighs things a little differently. Good to know: California doesn't allow credit scores to be used for auto insurance pricing. Want to see how these apply to you? We'll compare options with you.\n\n—\n\nMisma cobertura, diferente precio. ¿Por qué? Tu historial de manejo, las millas que manejas al año y tus años de experiencia influyen en California. 🚗\n\nBajo la Proposición 103 de California, estos tres factores pesan más en el precio del seguro de auto:\n1️⃣ Tu historial de manejo\n2️⃣ Cuántas millas manejas al año\n3️⃣ Cuántos años llevas manejando\n\nOtros factores aprobados, como el carro que manejas y dónde vives, también pueden influir, y cada aseguradora los pesa un poco diferente. Dato: en California no se permite usar tu puntaje de crédito para el precio del seguro de auto. ¿Quieres ver cómo te aplican? Comparamos opciones contigo.\n\n#AutoInsurance #SeguroDeAuto #Prop103 #BuenaPark #StreetSmartInsurance\n\nEducational only, California. Rates vary by driver and carrier. Solo informativo. CA Lic. 0M47744",
       "caption_bytes": 1499,
@@ -496,8 +512,12 @@
         "ig",
         "fb"
       ],
-      "blocked_reason": "Buffer rejects firstComment on this plan: 'Invalid post: First comment requires a paid plan.' (create_post attempt Oct 5 2026 ~9:02pm PT for #14 IG). Not scheduled without the approved first comment; needs Carlos's decision (upgrade Buffer, post first comment manually, or approve posting without it).",
-      "channels_note": "Channels = IG + FB per the approved metadata (tiktok: null). Confirm with Carlos whether TikTok was intended."
+      "channels_note": "Channels = IG + FB per the approved metadata (tiktok: null). Confirm with Carlos whether TikTok was intended.",
+      "buffer_ids": {
+        "ig": "6ac51dcaec5da1bfe835dc16",
+        "fb": "6ac51dd169aec55670a95e39"
+      },
+      "scheduled_on": "2026-10-06 ~09:12 PT (Buffer Essentials; firstComment saved on IG and FB)"
     }
   ],
   "channel_ids": {
